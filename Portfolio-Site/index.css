@@ -1,0 +1,42 @@
+body {
+  background-color: #1a1a1a;
+  color: #eaeaea;
+}
+.header-img {
+  max-width: 200px;
+  height: auto;
+}
+input {
+  width: 50%;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+}
+textarea {
+  width: 50%;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 20px;
+}
+.send {
+  width: 50%;
+  background-color: rgb(213, 210, 210);
+  padding: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+hr {
+  width: 100%;
+  color: white;
+}
+.resume-button {
+  background-color: aqua;
+  padding: 5px;
+  margin: 5px;
+}
+.resume-button:hover {
+  background-color: black;
+  color: white;
+}
